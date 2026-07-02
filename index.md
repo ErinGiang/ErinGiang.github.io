@@ -62,4 +62,4 @@ I have served as an external reviewer for several cryptography conferences.
   EUROCRYPT, ASIACRYPT, ProvSec.
 
 
-Last updated: June 2024
+Last updated: June 2026

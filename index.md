@@ -51,7 +51,7 @@ B.S. in Information Engineering ([Zhiyuan Honors Class](https://en.zhiyuan.sjtu.
   
 - **[Efficient Biometric-Based Two-Factor AKE Scheme Against Malicious Adversaries](https://ieeexplore.ieee.org/document/11152636)**
    Mingming Jiang, Shengli Liu, and [Shuai Han](https://dalenhan.github.io/)
-  _IEEE Transactions on Dependable and Secure Computing_ (TDSC 2024)
+  _IEEE Transactions on Dependable and Secure Computing_ (TDSC 2026)
   
 ## Academic Service
 

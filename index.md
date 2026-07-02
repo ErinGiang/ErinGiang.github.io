@@ -6,8 +6,9 @@ My research interests focus on public-key cryptography with provable security.
 In particular, I am interested in the design of biometric-based authentication (key exchange) protocols.
 
 ## Experience
+Senior Engineer, Cloud Core Network, HUAWEI, Aug 2025 - Present
 
-Phd students, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2020 - Presents
+Phd students, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2020 - June 2025
 
 Bachelor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2016 - Jun 2020
 
